@@ -1,0 +1,170 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WC Exporter for Reviso\n"
+"POT-Creation-Date: 2021-06-21 16:37+0200\n"
+"PO-Revision-Date: 2016-05-26 13:25+0200\n"
+"Last-Translator: ilGhera <info@ilghera.com>\n"
+"Language-Team: ilGhera <info@ilghera.com>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_;esc_html__;esc_html_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: plugin-update-checker\n"
+"X-Poedit-SearchPathExcluded-1: libraries\n"
+"X-Poedit-SearchPathExcluded-2: vendor\n"
+
+#: admin/class-wcifr-admin.php:73
+msgid "It seems like you don't have permission to see this page"
+msgstr ""
+
+#: admin/class-wcifr-admin.php:85
+msgid "ATTENTION! It seems like Woocommerce is not installed"
+msgstr ""
+
+#: admin/class-wcifr-admin.php:94
+msgid "WooCommerce Importer for Reviso - Premium"
+msgstr ""
+
+#: admin/class-wcifr-admin.php:109
+msgid "Premium Key"
+msgstr ""
+
+#: admin/class-wcifr-admin.php:110
+msgid "Add your Premium Key"
+msgstr ""
+
+#: admin/class-wcifr-admin.php:111
+msgid ""
+"Add your Premium Key and keep update your copy of Woocommerce Importer for "
+"Reviso - Premium"
+msgstr ""
+
+#: admin/class-wcifr-admin.php:113
+msgid "Save"
+msgstr ""
+
+#: admin/class-wcifr-admin.php:119
+msgid "Settings"
+msgstr ""
+
+#: admin/class-wcifr-admin.php:120
+msgid "Suppliers"
+msgstr ""
+
+#: admin/class-wcifr-admin.php:121
+msgid "Products"
+msgstr ""
+
+#: admin/class-wcifr-admin.php:122
+msgid "Customers"
+msgstr ""
+
+#: admin/wcifr-customers-template.php:17 admin/wcifr-suppliers-template.php:17
+msgid "User role"
+msgstr ""
+
+#: admin/wcifr-customers-template.php:32
+msgid "Select your customers user role"
+msgstr ""
+
+#: admin/wcifr-customers-template.php:39 admin/wcifr-products-template.php:71
+#: admin/wcifr-suppliers-template.php:39
+msgid "Import from Reviso"
+msgstr ""
+
+#: admin/wcifr-products-template.php:25
+msgid "Product sku"
+msgstr ""
+
+#: admin/wcifr-products-template.php:28
+msgid "Use <i>Bar Code instead</i> of <i>Product Number</i> if available"
+msgstr ""
+
+#: admin/wcifr-products-template.php:32
+msgid "Exclude product title"
+msgstr ""
+
+#: admin/wcifr-products-template.php:36
+msgid "Exclude title from products updates."
+msgstr ""
+
+#: admin/wcifr-products-template.php:40
+msgid "Short description"
+msgstr ""
+
+#: admin/wcifr-products-template.php:43
+msgid "Use the excerpt as short product description."
+msgstr ""
+
+#: admin/wcifr-products-template.php:47
+msgid "Exclude product description"
+msgstr ""
+
+#: admin/wcifr-products-template.php:51
+msgid "Exclude descriptions from products updates."
+msgstr ""
+
+#: admin/wcifr-products-template.php:55
+msgid "Products not available"
+msgstr ""
+
+#: admin/wcifr-products-template.php:59
+msgid "Avoid creating new products if not available in stock."
+msgstr ""
+
+#: admin/wcifr-products-template.php:63
+msgid "Publish new products"
+msgstr ""
+
+#: admin/wcifr-products-template.php:66
+msgid "Publish new products directly"
+msgstr ""
+
+#: admin/wcifr-settings-template.php:17
+msgid "Connection status"
+msgstr ""
+
+#: admin/wcifr-settings-template.php:21
+msgid "Not connected"
+msgstr ""
+
+#: admin/wcifr-settings-template.php:24
+msgid "Connect with your Reviso credentials"
+msgstr ""
+
+#: admin/wcifr-settings-template.php:29
+msgid "Connect to Reviso"
+msgstr ""
+
+#: admin/wcifr-settings-template.php:30
+msgid "Disconnect from Reviso"
+msgstr ""
+
+#: admin/wcifr-suppliers-template.php:32
+msgid "Select your suppliers user role"
+msgstr ""
+
+#: includes/class-wcifr-products.php:576
+#, php-format
+msgid "%d product(s) import process has begun"
+msgstr ""
+
+#: includes/class-wcifr-products.php:584
+msgid "ERROR! There are not products to import"
+msgstr ""
+
+#: includes/class-wcifr-settings.php:120
+msgid "Connected"
+msgstr ""
+
+#: includes/class-wcifr-users.php:282
+#, php-format
+msgid "%1$d %2$s(s) import process has begun"
+msgstr ""
